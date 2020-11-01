@@ -74,6 +74,6 @@ I am a passionate self-taught programmer from Bangladesh.
 <img alt="Random Memes" height="250px" src="https://www.ohidur.com/memes/random.jpg?_n=4">
 
 <pre>
-“THE ONLY EASY DAY WAS YESTERDAY.” 
-                 — US. NAVY SEALS
+“Opportunities don’t happen, you create them.”
+                                – Chris Grosse
 </pre>
